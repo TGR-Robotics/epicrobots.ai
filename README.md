@@ -1,2 +1,2 @@
 # epicrobots.ai
-Epic robots offical website 
+Epic robots official website 
