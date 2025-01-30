@@ -1,4 +1,4 @@
-﻿body {
+﻿﻿body {
   margin:0px;
   background-image:none;
   position:relative;
@@ -849,11 +849,14 @@
 #u22 {
   border-width:0px;
   position:absolute;
-  left:413px;
+  left:50%;
   top:301px;
   width:562px;
   height:83px;
   display:flex;
+  justify-content:center;
+  align-items:center;
+  transform:translateX(-50%);
   font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
@@ -963,11 +966,14 @@
 #u26 {
   border-width:0px;
   position:absolute;
-  left:425px;
+  left:50%;
   top:311px;
   width:54px;
   height:66px;
   display:flex;
+  justify-content:center;
+  align-items:center;
+  transform:translateX(-50%);
   font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
