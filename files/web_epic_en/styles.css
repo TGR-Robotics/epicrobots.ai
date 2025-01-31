@@ -1,4 +1,4 @@
-﻿body {
+﻿﻿body {
   margin:0px;
   background-image:none;
   position:relative;
@@ -1386,6 +1386,7 @@
   left:50%;
   margin-left:-683px;
   top:0px;
+  z-index:999;
 }
 #u77_state0 {
   position:relative;
@@ -1514,6 +1515,7 @@
   position:fixed;
   left:99px;
   top:4px;
+  z-index: 1000;
 }
 #u81_state0 {
   position:relative;
